@@ -1,3 +1,10 @@
 <resources>
-    <string name="app_name">Quest Navigasi</string>
+    <string name="app_name">6_Navi</string>
+    <string name="submit">Submit</string>
+    <string name="back">Back</string>
+    <string name="nama_lengkap">Haidar Yahya Mudhofar</string>
+    <string name="jenis_kelamin">Laki-laki</string>
+    <string name="alamat">Perum. Bawen Regency A4 Ngancar</string>
+    <string name="tampil">Tampilan Data</string>
+    <string name="home">Form Isian</string>
 </resources>

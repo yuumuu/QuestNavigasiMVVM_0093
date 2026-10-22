@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="p_sm">10dp</dimen>
+    <dimen name="p_md">16dp</dimen>
+    <dimen name="div_thick">1dp</dimen>
+</resources>
