@@ -1,0 +1,6 @@
+{
+  "name": "QuestNavigasiMVVM_0093",
+  "description": "Aplikasi starter navigasi Jetpack Compose dengan pola arsitektur MVVM, NavHost, dan StateFlow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
